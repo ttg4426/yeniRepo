@@ -5,7 +5,7 @@ public class Class01 {
         // v2 çalışmalarım
         System.out.println("versiyon 2");
 //v5 BURADA GÜNCEL
-
+// Version 6 da Yenirepo denemesi
 
     }
 }
